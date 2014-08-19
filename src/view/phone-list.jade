@@ -1,0 +1,22 @@
+div.container-fluid
+  div.row
+
+    div#search-input.col-md-2
+
+      |Search:
+      input(ng-model='query')
+      |  Sort by:
+      select(ng-model='orderProp')
+        option(value='name') Alphabetical
+        option(value='age') Newest
+
+    div#search-result.col-md-10
+
+      ul.phones
+        li.thumbnail.phone-listing
+          a.thumb
+            img
+          a
+          p
+
+script(src='./js/model/phoneList.js')

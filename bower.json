@@ -1,0 +1,29 @@
+{
+  "name": "angular-phonecat-seed",
+  "version": "0.0.0",
+  "authors": [
+    "FooTearth <footearth@gmail.com>"
+  ],
+  "description": "",
+  "main": "dist/index.html",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "jquery": "*",
+    "bootstrap": "*",
+    "angular": "*",
+    "angular-mocks": "*",
+    "angular-animate": "*",
+    "angular-route": "*",
+    "angular-resource": "*"
+  },
+  "dependencies": {
+  }
+}

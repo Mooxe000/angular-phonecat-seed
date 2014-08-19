@@ -1,0 +1,30 @@
+{
+  "name": "angular-phonecat-seed",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.index",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean": "*",
+    "gulp-filter": "*",
+    "gulp-jade": "*",
+    "gulp-coffee": "*",
+    "gulp-stylus": "*",
+    "gulp-gh-pages": "*",
+    "gulp-frep": "*",
+    "gulp-if": "*",
+    "browser-sync": "*",
+    "run-sequence": "*",
+    "yargs": "*"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/Mooxe000/angular-phonecat-seed.git"
+  },
+  "keywords": [
+  ],
+  "author": "FooTearth <footearth@gmail.com>",
+  "license": "MIT"
+}
